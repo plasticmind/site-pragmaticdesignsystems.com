@@ -1,10 +1,12 @@
 ---
-layout: layouts/post.njk
+layout: layouts/page.njk
 title: About Me
-templateClass: tmpl-post
+templateClass: page
 eleventyNavigation:
   key: About Me
   order: 3
 ---
 
-I am a person that writes stuff.
+# Hi, I'm Jesse!
+
+I build design systems.
